@@ -42,6 +42,7 @@ Provides a high-level summary of sales performance and trends.
 - **Donut Chart**:  
   - Sales by Segment
 
+<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/50a1c561-1cba-4ede-98fe-3012414989b6" />
 ---
 
 ## 2️⃣ Regional Performance
