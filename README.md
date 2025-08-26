@@ -106,6 +106,6 @@ Full-stack & AI/ML Engineer | Passionate about ethical, impactful data solutions
 
 ---
 
-Built with [Power BI](https://powerbi.microsoft.com) and ❤
-📊 Turning data into decisions, one insight at a time.
+- Built with ❤
+- 📊 Turning data into decisions, one insight at a time.
 
