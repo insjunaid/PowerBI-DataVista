@@ -57,6 +57,8 @@ Highlights geographic and team-based sales performance.
   - Sales vs Target by Salesperson
 - **KPI Card**:  
   - % of Salespersons Meeting Target
+ 
+<img width="450" height="320" alt="Image" src="https://github.com/user-attachments/assets/2bfacb7b-5de2-4822-b2d1-889495a53ad4" />
 
 ---
 
@@ -69,6 +71,8 @@ Focuses on customer acquisition and segmentation.
   - New Customers Added per Month
 - **Donut Chart**:  
   - Sales by Customer Segment
+
+<img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/f0468035-03ad-4900-ab82-8fbbfe85144b" />
 
 ---
 
